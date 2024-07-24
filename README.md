@@ -6,7 +6,7 @@ Welcome to the Gianola E-Commerce Platform! This project is a robust and scalabl
 **User Authentication**: Secure login and registration system.  
 **Product Management**: Add, edit, and delete products.  
 **Order Management**: Process and track customer orders.  
-**Customer Management: Manage customer information and order history.  
+**Customer Management**: Manage customer information and order history.  
 **Category-wise Products**: Organize products into categories for easier browsing.  
 **Notifications**: Real-time notifications for order updates, promotions, and more.
 
