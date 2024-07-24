@@ -8,7 +8,9 @@ Welcome to the Gianola E-Commerce Platform! This project is a robust and scalabl
 **Order Management**: Process and track customer orders.  
 **Customer Management**: Manage customer information and order history.  
 **Category-wise Products**: Organize products into categories for easier browsing.  
-**Notifications**: Real-time notifications for order updates, promotions, and more.
+**Notifications**: Real-time notifications for order updates, promotions, and more.  
+**Language Support**: Multi-language support for a global user base.
+**Coupons and Gift Card Management**: Create and manage discount coupons and gift cards.
 
 ## Technologies Used
 Front-End: Flutter,Dart  
